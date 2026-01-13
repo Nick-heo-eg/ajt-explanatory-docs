@@ -53,6 +53,12 @@ Explains:
 
 ---
 
+## Related Resources
+
+**Visual demonstrations**: [ajt-judgment-flow-demo](https://github.com/Nick-heo-eg/ajt-judgment-flow-demo) — Flow diagrams showing how judgment traces move through layers
+
+---
+
 ## Constitutional Reference
 
 All normative rules are defined in:
